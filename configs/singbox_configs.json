@@ -79,10 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-235bd026 (United States)",
-        "🇺🇦 hysteria2-196c62c8 (Ukraine)",
-        "🇮🇹 hysteria2-10342585 (Italy)",
-        "🇷🇺 hysteria2-3dcbe886 (Russia)",
+        "🇺🇸 hysteria2-46e7ec01 (United States)",
+        "🇺🇦 hysteria2-689b3242 (Ukraine)",
+        "🇮🇹 hysteria2-b492e686 (Italy)",
+        "🇷🇺 hysteria2-8750dc0d (Russia)",
         "direct"
       ]
     },
@@ -90,10 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-235bd026 (United States)",
-        "🇺🇦 hysteria2-196c62c8 (Ukraine)",
-        "🇮🇹 hysteria2-10342585 (Italy)",
-        "🇷🇺 hysteria2-3dcbe886 (Russia)"
+        "🇺🇸 hysteria2-46e7ec01 (United States)",
+        "🇺🇦 hysteria2-689b3242 (Ukraine)",
+        "🇮🇹 hysteria2-b492e686 (Italy)",
+        "🇷🇺 hysteria2-8750dc0d (Russia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +105,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-235bd026 (United States)",
+      "tag": "🇺🇸 hysteria2-46e7ec01 (United States)",
       "server": "107.172.235.75",
       "server_port": 56381,
       "password": "5eaa121d-4362-444d-8219-29b02c35303a",
@@ -117,7 +117,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-196c62c8 (Ukraine)",
+      "tag": "🇺🇦 hysteria2-689b3242 (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 53684,
       "password": "5eaa121d-4362-444d-8219-29b02c35303a",
@@ -129,9 +129,9 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇹 hysteria2-10342585 (Italy)",
+      "tag": "🇮🇹 hysteria2-b492e686 (Italy)",
       "server": "23.132.228.217",
-      "server_port": 56410,
+      "server_port": 53759,
       "password": "5eaa121d-4362-444d-8219-29b02c35303a",
       "tls": {
         "enabled": true,
@@ -141,7 +141,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 hysteria2-3dcbe886 (Russia)",
+      "tag": "🇷🇺 hysteria2-8750dc0d (Russia)",
       "server": "85.235.205.212",
       "server_port": 56410,
       "password": "5eaa121d-4362-444d-8219-29b02c35303a",
